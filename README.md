@@ -1,9 +1,9 @@
 - 👋 Hi, There I’m @adarshydv25,Welcome to My Profile
 - 👀 I’m interested in web devlopment
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Small Python project's,which help me to Grow better From yesturday.
+- 💞️ I’m looking to collaborate on Small Python project's,which help's me to Grow better From yesterday.
 - 📫 Reach me by E-mail(adarsh9000@outlook.com) 
-- 😄 Pronouns:
+- 😄 Pronouns:He/Him
 - ⚡ Fun fact:Just start learning not a Pro Nether a Beginner.
 
 <!---
